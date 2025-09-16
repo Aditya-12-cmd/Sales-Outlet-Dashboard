@@ -72,4 +72,6 @@ Dataset taken from a **publicly available GitHub repository** for practice purpo
 - Interactive Dashboard Building
 - Business Insights Communication
 
+# Note
+If you would likje to access the POWER BI (.pbix) file. please feel free to ask.
 
