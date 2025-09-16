@@ -1,5 +1,6 @@
 # 🛒 Retail Sales & Outlet Performance Dashboard
-
+# Dashboard Preview
+   https://github.com/Aditya-12-cmd/Sales-Outlet-Dashboard/blob/6f5671c97de678235cd749204b6a4eca411b9dae/dashboard.png
 ## 📌 Project Objective 
 The objective of this project is to analyze retail sales and outlet performance data to identify:
 - Best and worst performing outlets
