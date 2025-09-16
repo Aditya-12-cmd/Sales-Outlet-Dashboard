@@ -1,6 +1,6 @@
 # 🛒 Retail Sales & Outlet Performance Dashboard
 # Dashboard Preview
- dashboard.png
+ ![Dashboard](dashboard.png)
 ## 📌 Project Objective 
 The objective of this project is to analyze retail sales and outlet performance data to identify:
 - Best and worst performing outlets
